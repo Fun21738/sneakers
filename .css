@@ -1,0 +1,53 @@
+.cont {
+    background-color: red;
+   
+    
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.nav {
+    text-align: left;
+    padding: 10px;
+    justify-content: center;
+    margin-left: 130px;
+    margin-top: 25px;
+    text-decoration: none;
+    gap: 10px;
+}
+.both {
+    margin-top: 80px;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    display: flex;
+}
+.image {
+    border-radius: 4px;
+}
+.one {
+    border: 2px cornsilk;
+    border-radius: 5px;
+}
+.four {
+    border-radius: 4px;
+}
+.btn{
+    display: flex;
+    padding: 10px 20px;
+    background-color: hsla(320, 87%, 41%, 0.925);
+    margin-top: 20px;
+    border-radius: 5px;
+    display: flex;
+    text-align: center;  
+    color: #ffffff;
+    text-decoration: none;
+    justify-content: center;
+    gap: 20px;
+}
+.line {
+    text-decoration: line-through;
+    margin-top: -20px;
+}
